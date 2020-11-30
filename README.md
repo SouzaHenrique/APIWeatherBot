@@ -1,8 +1,8 @@
-﻿# EchoBot
+﻿# API Wheater Bot
 
 Bot Framework v4 echo bot sample.
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
+This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and, since this input is a city name it searches for its climatic information in OPEN Wheater API and then return the result for the user.
 
 ## Prerequisites
 
